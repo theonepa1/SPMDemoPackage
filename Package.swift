@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DeviceRisk",
-            url: "https://sdk.socure.com/socure-sdks/sigma-device/ios/socure-device-risk-2.0.0.zip",
-            checksum: "1b22082e3d9adb82107e015b1c513a57ceac1523286def535d01e0ba4416b264"
+            url: "https://github.com/theonepa1/SPMDemoPackage/raw/main/socure-device-risk-2.0.1.zip",
+            checksum: "113278382469bfa045237fa2c99980c0c861741c5a52a044ab482df4ff6d37ae"
         ),
         .target(
             name: "SPMDemoPackageWrapper",
