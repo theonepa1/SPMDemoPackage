@@ -1,0 +1,4 @@
+module SPMDemoPackageWrapper {
+    umbrella "/Users/pmellamp/Workplace/Projects/github/SPMDemoPackage/SPMDemoPackageWrapper/include"
+    export *
+}

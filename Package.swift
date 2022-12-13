@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DeviceRisk",
-            path: "Frameworks/DeviceRisk.xcframework",
+            path: "Frameworks/DeviceRisk.xcframework"
         ),
         .binaryTarget(
             name: "TrustKit",

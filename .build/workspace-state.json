@@ -1,0 +1,36 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "packageRef" : {
+          "identity" : "spmdemopackage",
+          "kind" : "root",
+          "location" : "/Users/pmellamp/Workplace/Projects/github/SPMDemoPackage",
+          "name" : "SPMDemoPackage"
+        },
+        "path" : "/Users/pmellamp/Workplace/Projects/github/SPMDemoPackage/Frameworks/DeviceRisk.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "DeviceRisk"
+      },
+      {
+        "packageRef" : {
+          "identity" : "spmdemopackage",
+          "kind" : "root",
+          "location" : "/Users/pmellamp/Workplace/Projects/github/SPMDemoPackage",
+          "name" : "SPMDemoPackage"
+        },
+        "path" : "/Users/pmellamp/Workplace/Projects/github/SPMDemoPackage/Frameworks/TrustKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "TrustKit"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 5
+}
