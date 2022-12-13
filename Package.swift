@@ -26,7 +26,7 @@ let package = Package(
             name: "SPMDemoPackageWrapper",
             dependencies: [
                 .target(name: "DeviceRisk"),
-                .product(name: "TrustKit", package: "TrustKit")
+                .product(name: "TrustKitDynamic", package: "TrustKit")
             ],
             path: "SPMDemoPackageWrapper"
         ),
