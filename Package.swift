@@ -12,20 +12,22 @@ let package = Package(
             name: "SPMDemo",
             targets: ["SPMDemoPackageWrapper"]),
     ],
+    dependencies: [
+        .package(
+            url: "https://github.com/datatheorem/TrustKit.git",
+            exact: "2.0.0"
+        )
+    ],
     targets: [
         .binaryTarget(
             name: "DeviceRisk",
             path: "Frameworks/DeviceRisk.xcframework"
         ),
-        .binaryTarget(
-            name: "TrustKit",
-            path: "Frameworks/TrustKit.xcframework"
-        ),
         .target(
             name: "SPMDemoPackageWrapper",
             dependencies: [
                 .target(name: "DeviceRisk"),
-                .target(name: "TrustKit")
+                "TrustKit"
             ],
             path: "SPMDemoPackageWrapper"
         ),
