@@ -1,4 +1,4 @@
-// swift-tools-version:5.5
+// swift-tools-version:5.3
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 import PackageDescription
 let package = Package(
@@ -11,23 +11,24 @@ let package = Package(
         .library(
             name: "SPMDemo",
             targets: ["SPMDemoPackageWrapper"]),
-    ],
-    dependencies: [
-        .package(
-            url: "https://github.com/datatheorem/TrustKit.git",
-            from: "2.0.0"
-        )
+        .library(
+            name: "SPMDemoNoTrustKit",
+            targets: ["DeviceRisk"])
     ],
     targets: [
         .binaryTarget(
             name: "DeviceRisk",
             path: "Frameworks/DeviceRisk.xcframework"
         ),
+        .binaryTarget(
+            name: "TrustKit",
+            path: "Frameworks/TrustKit.xcframework"
+        ),
         .target(
             name: "SPMDemoPackageWrapper",
             dependencies: [
                 .target(name: "DeviceRisk"),
-                "TrustKit"
+                .target(name: "TrustKit")
             ],
             path: "SPMDemoPackageWrapper"
         ),
