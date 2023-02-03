@@ -21,14 +21,14 @@ let package = Package(
             path: "Frameworks/DeviceRisk.xcframework"
         ),
         .binaryTarget(
-            name: "TrustKit",
+            name: "SDTrustKit",
             path: "Frameworks/TrustKit.xcframework"
         ),
         .target(
             name: "SPMDemoPackageWrapper",
             dependencies: [
                 .target(name: "DeviceRisk"),
-                .target(name: "TrustKit")
+                .target(name: "SDTrustKit")
             ],
             path: "SPMDemoPackageWrapper"
         ),
