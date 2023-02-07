@@ -10,7 +10,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "SPMDemoNoTrustKit",
-            targets: ["DeviceRisk"]),
+            targets: ["DeviceRiskGG"]),
         .library(
             name: "SPMDemo",
             targets: ["SPMDemoPackageWrapper"])
@@ -27,7 +27,7 @@ let package = Package(
         .target(
             name: "SPMDemoPackageWrapper",
             dependencies: [
-                .target(name: "DeviceRisk"),
+                .target(name: "DeviceRiskGG"),
                 .product(name: "TrustKitDynamic", package: "TrustKit")
             ],
             path: "SPMDemoPackageWrapper"
