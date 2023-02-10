@@ -21,8 +21,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DeviceRisk",
-            url: "https://sdk.socure.com/socure-sdks/sigma-device/ios/socure-device-risk-2.0.2.zip",
-            checksum: "4cd16dbb056dbb9494f9da4ec471b1153e39a44a28be7449506bcc254d02c478"
+            path: "Frameworks/DeviceRisk.xcframework"
         ),
         .target(
             name: "SPMDemoPackageWrapper",
