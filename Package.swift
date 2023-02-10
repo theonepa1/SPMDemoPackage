@@ -10,7 +10,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "SPMDemoNoTrustKit",
-            targets: ["DeviceRiskGG"]),
+            targets: ["DeviceRisk"]),
         .library(
             name: "SPMDemo",
             targets: ["SPMDemoPackageWrapper"])
@@ -20,15 +20,15 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(
-            name: "DeviceRiskGG",
+            name: "DeviceRisk",
             url: "https://sdk.socure.com/socure-sdks/sigma-device/ios/socure-device-risk-2.0.2.zip",
             checksum: "4cd16dbb056dbb9494f9da4ec471b1153e39a44a28be7449506bcc254d02c478"
         ),
         .target(
             name: "SPMDemoPackageWrapper",
             dependencies: [
-                .target(name: "DeviceRiskGG"),
-                .product(name: "TrustKitDynamic", package: "TrustKit")
+                .target(name: "DeviceRisk"),
+                .product(name: "TrustKit", package: "TrustKit")
             ],
             path: "SPMDemoPackageWrapper"
         ),
