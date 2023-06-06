@@ -15,7 +15,7 @@ SPM Demo package
   s.homepage         = "https://github.com/theonepa1/SPMDemoPackage"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'private'
-  s.author           = {  "theone.pa1@gmail.com" }
+  s.author           = {  "Pavan" => "theone.pa1@gmail.com" }
   s.source           = { :git => "https://github.com/theonepa1/SPMDemoPackage", :tag => "#{s.version}"}
 
   s.platform = :ios
