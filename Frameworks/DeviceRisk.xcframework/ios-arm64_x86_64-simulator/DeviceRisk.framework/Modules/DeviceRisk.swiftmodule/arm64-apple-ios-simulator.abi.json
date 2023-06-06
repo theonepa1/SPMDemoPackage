@@ -1,0 +1,3539 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration.CaptiveNetwork",
+        "printedName": "SystemConfiguration.CaptiveNetwork",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "MessageUI",
+        "printedName": "MessageUI",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "NetworkExtension",
+        "printedName": "NetworkExtension",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "MoonsenseCoreSDK",
+        "printedName": "MoonsenseCoreSDK",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SocureSigmaDeviceConfig",
+        "printedName": "SocureSigmaDeviceConfig",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "SDKKey",
+            "printedName": "SDKKey",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV6SDKKeySSvp",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV6SDKKeySSvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV6SDKKeySSvg",
+                "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV6SDKKeySSvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "fingerprintEndpointHost",
+            "printedName": "fingerprintEndpointHost",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV23fingerprintEndpointHostSSSgvp",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV23fingerprintEndpointHostSSSgvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV23fingerprintEndpointHostSSSgvg",
+                "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV23fingerprintEndpointHostSSSgvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV23fingerprintEndpointHostSSSgvs",
+                "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV23fingerprintEndpointHostSSSgvs",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV23fingerprintEndpointHostSSSgvM",
+                "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV23fingerprintEndpointHostSSSgvM",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "enableBehavioralBiometrics",
+            "printedName": "enableBehavioralBiometrics",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV26enableBehavioralBiometricsSbvp",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV26enableBehavioralBiometricsSbvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV26enableBehavioralBiometricsSbvg",
+                "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV26enableBehavioralBiometricsSbvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV26enableBehavioralBiometricsSbvs",
+                "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV26enableBehavioralBiometricsSbvs",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV26enableBehavioralBiometricsSbvM",
+                "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV26enableBehavioralBiometricsSbvM",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(SDKKey:fingerprintEndpointHost:enableBehavioralBiometrics:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SocureSigmaDeviceConfig",
+                "printedName": "DeviceRisk.SocureSigmaDeviceConfig",
+                "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV6SDKKey23fingerprintEndpointHost26enableBehavioralBiometricsACSS_SSSgSbtcfc",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV6SDKKey23fingerprintEndpointHost26enableBehavioralBiometricsACSS_SSSgSbtcfc",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV",
+        "mangledName": "$s10DeviceRisk011SocureSigmaA6ConfigV",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SocureFingerprintContext",
+        "printedName": "SocureFingerprintContext",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "homepage",
+            "printedName": "homepage",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureFingerprintContext.Type) -> DeviceRisk.SocureFingerprintContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintContext",
+                    "printedName": "DeviceRisk.SocureFingerprintContext",
+                    "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureFingerprintContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk24SocureFingerprintContextO8homepageyA2CmF",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintContextO8homepageyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "signup",
+            "printedName": "signup",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureFingerprintContext.Type) -> DeviceRisk.SocureFingerprintContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintContext",
+                    "printedName": "DeviceRisk.SocureFingerprintContext",
+                    "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureFingerprintContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk24SocureFingerprintContextO6signupyA2CmF",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintContextO6signupyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "login",
+            "printedName": "login",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureFingerprintContext.Type) -> DeviceRisk.SocureFingerprintContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintContext",
+                    "printedName": "DeviceRisk.SocureFingerprintContext",
+                    "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureFingerprintContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk24SocureFingerprintContextO5loginyA2CmF",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintContextO5loginyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "profile",
+            "printedName": "profile",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureFingerprintContext.Type) -> DeviceRisk.SocureFingerprintContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintContext",
+                    "printedName": "DeviceRisk.SocureFingerprintContext",
+                    "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureFingerprintContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk24SocureFingerprintContextO7profileyA2CmF",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintContextO7profileyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "password",
+            "printedName": "password",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureFingerprintContext.Type) -> DeviceRisk.SocureFingerprintContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintContext",
+                    "printedName": "DeviceRisk.SocureFingerprintContext",
+                    "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureFingerprintContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk24SocureFingerprintContextO8passwordyA2CmF",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintContextO8passwordyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "transaction",
+            "printedName": "transaction",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureFingerprintContext.Type) -> DeviceRisk.SocureFingerprintContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintContext",
+                    "printedName": "DeviceRisk.SocureFingerprintContext",
+                    "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureFingerprintContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk24SocureFingerprintContextO11transactionyA2CmF",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintContextO11transactionyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "checkout",
+            "printedName": "checkout",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureFingerprintContext.Type) -> DeviceRisk.SocureFingerprintContext",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintContext",
+                    "printedName": "DeviceRisk.SocureFingerprintContext",
+                    "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureFingerprintContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk24SocureFingerprintContextO8checkoutyA2CmF",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintContextO8checkoutyA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "other",
+            "printedName": "other",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureFingerprintContext.Type) -> (Swift.String) -> DeviceRisk.SocureFingerprintContext",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> DeviceRisk.SocureFingerprintContext",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureFingerprintContext.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk24SocureFingerprintContextO5otheryACSScACmF",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintContextO5otheryACSScACmF",
+            "moduleName": "DeviceRisk"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10DeviceRisk24SocureFingerprintContextO",
+        "mangledName": "$s10DeviceRisk24SocureFingerprintContextO",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SocureFingerprintOptions",
+        "printedName": "SocureFingerprintOptions",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "omitLocationData",
+            "printedName": "omitLocationData",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk24SocureFingerprintOptionsV16omitLocationDataSbvp",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV16omitLocationDataSbvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV16omitLocationDataSbvg",
+                "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV16omitLocationDataSbvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV16omitLocationDataSbvs",
+                "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV16omitLocationDataSbvs",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV16omitLocationDataSbvM",
+                "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV16omitLocationDataSbvM",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "advertisingID",
+            "printedName": "advertisingID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk24SocureFingerprintOptionsV13advertisingIDSSSgvp",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV13advertisingIDSSSgvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV13advertisingIDSSSgvg",
+                "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV13advertisingIDSSSgvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV13advertisingIDSSSgvs",
+                "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV13advertisingIDSSSgvs",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV13advertisingIDSSSgvM",
+                "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV13advertisingIDSSSgvM",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "context",
+            "printedName": "context",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "DeviceRisk.SocureFingerprintContext?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintContext",
+                    "printedName": "DeviceRisk.SocureFingerprintContext",
+                    "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk24SocureFingerprintOptionsV7contextAA0cD7ContextOSgvp",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV7contextAA0cD7ContextOSgvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "DeviceRisk.SocureFingerprintContext?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV7contextAA0cD7ContextOSgvg",
+                "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV7contextAA0cD7ContextOSgvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "DeviceRisk.SocureFingerprintContext?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureFingerprintContext",
+                        "printedName": "DeviceRisk.SocureFingerprintContext",
+                        "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV7contextAA0cD7ContextOSgvs",
+                "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV7contextAA0cD7ContextOSgvs",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV7contextAA0cD7ContextOSgvM",
+                "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV7contextAA0cD7ContextOSgvM",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(omitLocationData:advertisingID:context:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SocureFingerprintOptions",
+                "printedName": "DeviceRisk.SocureFingerprintOptions",
+                "usr": "s:10DeviceRisk24SocureFingerprintOptionsV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "DeviceRisk.SocureFingerprintContext?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintContext",
+                    "printedName": "DeviceRisk.SocureFingerprintContext",
+                    "usr": "s:10DeviceRisk24SocureFingerprintContextO"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10DeviceRisk24SocureFingerprintOptionsV16omitLocationData13advertisingID7contextACSb_SSSgAA0cD7ContextOSgtcfc",
+            "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV16omitLocationData13advertisingID7contextACSb_SSSgAA0cD7ContextOSgtcfc",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10DeviceRisk24SocureFingerprintOptionsV",
+        "mangledName": "$s10DeviceRisk24SocureFingerprintOptionsV",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SocureFingerprintResult",
+        "printedName": "SocureFingerprintResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "deviceSessionID",
+            "printedName": "deviceSessionID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10DeviceRisk23SocureFingerprintResultV15deviceSessionIDSSvp",
+            "mangledName": "$s10DeviceRisk23SocureFingerprintResultV15deviceSessionIDSSvp",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10DeviceRisk23SocureFingerprintResultV15deviceSessionIDSSvg",
+                "mangledName": "$s10DeviceRisk23SocureFingerprintResultV15deviceSessionIDSSvg",
+                "moduleName": "DeviceRisk",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10DeviceRisk23SocureFingerprintResultV",
+        "mangledName": "$s10DeviceRisk23SocureFingerprintResultV",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SocureSigmaDeviceError",
+        "printedName": "SocureSigmaDeviceError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "dataFetchError",
+            "printedName": "dataFetchError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureSigmaDeviceError.Type) -> DeviceRisk.SocureSigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureSigmaDeviceError",
+                    "printedName": "DeviceRisk.SocureSigmaDeviceError",
+                    "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureSigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureSigmaDeviceError",
+                        "printedName": "DeviceRisk.SocureSigmaDeviceError",
+                        "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO09dataFetchE0yA2CmF",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA5ErrorO09dataFetchE0yA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "unknownError",
+            "printedName": "unknownError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureSigmaDeviceError.Type) -> DeviceRisk.SocureSigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureSigmaDeviceError",
+                    "printedName": "DeviceRisk.SocureSigmaDeviceError",
+                    "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureSigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureSigmaDeviceError",
+                        "printedName": "DeviceRisk.SocureSigmaDeviceError",
+                        "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO07unknownE0yA2CmF",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA5ErrorO07unknownE0yA2CmF",
+            "moduleName": "DeviceRisk"
+          },
+          {
+            "kind": "Var",
+            "name": "networkConnectionError",
+            "printedName": "networkConnectionError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureSigmaDeviceError.Type) -> (Swift.Error) -> DeviceRisk.SocureSigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.Error) -> DeviceRisk.SocureSigmaDeviceError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureSigmaDeviceError",
+                        "printedName": "DeviceRisk.SocureSigmaDeviceError",
+                        "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Error",
+                        "printedName": "Swift.Error",
+                        "usr": "s:s5ErrorP"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureSigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureSigmaDeviceError",
+                        "printedName": "DeviceRisk.SocureSigmaDeviceError",
+                        "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO017networkConnectionE0yACs0E0_pcACmF",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA5ErrorO017networkConnectionE0yACs0E0_pcACmF",
+            "moduleName": "DeviceRisk",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dataUploadError",
+            "printedName": "dataUploadError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureSigmaDeviceError.Type) -> (Swift.Int?, Swift.String?) -> DeviceRisk.SocureSigmaDeviceError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.Int?, Swift.String?) -> DeviceRisk.SocureSigmaDeviceError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureSigmaDeviceError",
+                        "printedName": "DeviceRisk.SocureSigmaDeviceError",
+                        "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(Swift.Int?, Swift.String?)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.Int?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Int",
+                                "printedName": "Swift.Int",
+                                "usr": "s:Si"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.String?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DeviceRisk.SocureSigmaDeviceError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SocureSigmaDeviceError",
+                        "printedName": "DeviceRisk.SocureSigmaDeviceError",
+                        "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO010dataUploadE0yACSiSg_SSSgtcACmF",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA5ErrorO010dataUploadE0yACSiSg_SSSgtcACmF",
+            "moduleName": "DeviceRisk"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO",
+        "mangledName": "$s10DeviceRisk011SocureSigmaA5ErrorO",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SocureSigmaDevice",
+        "printedName": "SocureSigmaDevice",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "fingerprint",
+            "printedName": "fingerprint(config:options:callback:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SocureSigmaDeviceConfig",
+                "printedName": "DeviceRisk.SocureSigmaDeviceConfig",
+                "usr": "s:10DeviceRisk011SocureSigmaA6ConfigV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "DeviceRisk.SocureFingerprintOptions?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SocureFingerprintOptions",
+                    "printedName": "DeviceRisk.SocureFingerprintOptions",
+                    "usr": "s:10DeviceRisk24SocureFingerprintOptionsV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DeviceRisk.SocureFingerprintResult?, DeviceRisk.SocureSigmaDeviceError?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(DeviceRisk.SocureFingerprintResult?, DeviceRisk.SocureSigmaDeviceError?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "DeviceRisk.SocureFingerprintResult?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SocureFingerprintResult",
+                            "printedName": "DeviceRisk.SocureFingerprintResult",
+                            "usr": "s:10DeviceRisk23SocureFingerprintResultV"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "DeviceRisk.SocureSigmaDeviceError?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SocureSigmaDeviceError",
+                            "printedName": "DeviceRisk.SocureSigmaDeviceError",
+                            "usr": "s:10DeviceRisk011SocureSigmaA5ErrorO"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10DeviceRisk011SocureSigmaA0C11fingerprint6config7options8callbackyAA0cdA6ConfigV_AA0C18FingerprintOptionsVSgyAA0cJ6ResultVSg_AA0cdA5ErrorOSgtctFZ",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA0C11fingerprint6config7options8callbackyAA0cdA6ConfigV_AA0C18FingerprintOptionsVSgyAA0cJ6ResultVSg_AA0cdA5ErrorOSgtctFZ",
+            "moduleName": "DeviceRisk",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SocureSigmaDevice",
+                "printedName": "DeviceRisk.SocureSigmaDevice",
+                "usr": "c:@M@DeviceRisk@objc(cs)SocureSigmaDevice"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@DeviceRisk@objc(cs)SocureSigmaDevice(im)init",
+            "mangledName": "$s10DeviceRisk011SocureSigmaA0CACycfc",
+            "moduleName": "DeviceRisk",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@DeviceRisk@objc(cs)SocureSigmaDevice",
+        "mangledName": "$s10DeviceRisk011SocureSigmaA0C",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DeviceRisk"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CLLocationManager",
+        "printedName": "CLLocationManager",
+        "declKind": "Class",
+        "usr": "c:objc(cs)CLLocationManager",
+        "moduleName": "CoreLocation",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "CLLocationManager",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 741,
+      "length": 21,
+      "value": "\"network_canSendText\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 791,
+      "length": 22,
+      "value": "\"network_canSendEmail\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 839,
+      "length": 19,
+      "value": "\"network_ipAddress\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 889,
+      "length": 24,
+      "value": "\"network_connectionType\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 939,
+      "length": 19,
+      "value": "\"network_vpnStatus\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 986,
+      "length": 21,
+      "value": "\"network_wifiNetwork\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1035,
+      "length": 24,
+      "value": "\"network_%d_carrierName\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1090,
+      "length": 27,
+      "value": "\"network_%d_isoCountryCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1151,
+      "length": 30,
+      "value": "\"network_%d_mobileCountryCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1215,
+      "length": 30,
+      "value": "\"network_%d_mobileNetworkCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1272,
+      "length": 23,
+      "value": "\"network_%d_allowsVOIP\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 741,
+      "length": 21,
+      "value": "\"network_canSendText\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 791,
+      "length": 22,
+      "value": "\"network_canSendEmail\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 839,
+      "length": 19,
+      "value": "\"network_ipAddress\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 889,
+      "length": 24,
+      "value": "\"network_connectionType\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 939,
+      "length": 19,
+      "value": "\"network_vpnStatus\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 986,
+      "length": 21,
+      "value": "\"network_wifiNetwork\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1035,
+      "length": 24,
+      "value": "\"network_%d_carrierName\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1090,
+      "length": 27,
+      "value": "\"network_%d_isoCountryCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1151,
+      "length": 30,
+      "value": "\"network_%d_mobileCountryCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1215,
+      "length": 30,
+      "value": "\"network_%d_mobileNetworkCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/NetworkData.swift",
+      "kind": "StringLiteral",
+      "offset": 1272,
+      "length": 23,
+      "value": "\"network_%d_allowsVOIP\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/FingerprintIngestionService.swift",
+      "kind": "StringLiteral",
+      "offset": 999,
+      "length": 16,
+      "value": "\"\/api\/ingestion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/FingerprintIngestionService.swift",
+      "kind": "StringLiteral",
+      "offset": 1061,
+      "length": 11,
+      "value": "\"dvnfo.com\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/FingerprintIngestionService.swift",
+      "kind": "StringLiteral",
+      "offset": 1109,
+      "length": 7,
+      "value": "\"2.0.3\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2647,
+      "length": 10,
+      "value": "\"endpoint\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2689,
+      "length": 16,
+      "value": "\"deviceEndpoint\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2740,
+      "length": 19,
+      "value": "\"bbSessionDuration\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2803,
+      "length": 28,
+      "value": "\"bbBundleGenerationInterval\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2859,
+      "length": 12,
+      "value": "\"sampleRate\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2901,
+      "length": 14,
+      "value": "\"bbMaxRetries\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2948,
+      "length": 17,
+      "value": "\"bbBackoffFactor\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2998,
+      "length": 17,
+      "value": "\"bbRequestJitter\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 3044,
+      "length": 13,
+      "value": "\"tokenFormat\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2647,
+      "length": 10,
+      "value": "\"endpoint\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2689,
+      "length": 16,
+      "value": "\"deviceEndpoint\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2740,
+      "length": 19,
+      "value": "\"bbSessionDuration\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2803,
+      "length": 28,
+      "value": "\"bbBundleGenerationInterval\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2859,
+      "length": 12,
+      "value": "\"sampleRate\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2901,
+      "length": 14,
+      "value": "\"bbMaxRetries\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2948,
+      "length": 17,
+      "value": "\"bbBackoffFactor\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 2998,
+      "length": 17,
+      "value": "\"bbRequestJitter\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsCollectorConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 3044,
+      "length": 13,
+      "value": "\"tokenFormat\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsCollector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 806,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsCollector.swift",
+      "kind": "StringLiteral",
+      "offset": 1031,
+      "length": 29,
+      "value": "\"com.socure.bbcollectorqueue\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsCollector.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1099,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 159,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 273,
+      "length": 12,
+      "value": "\"sdkVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 320,
+      "length": 20,
+      "value": "\"customerAppVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 366,
+      "length": 11,
+      "value": "\"sessionId\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 406,
+      "length": 14,
+      "value": "\"isConsenting\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 452,
+      "length": 12,
+      "value": "\"attributes\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 273,
+      "length": 12,
+      "value": "\"sdkVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 320,
+      "length": 20,
+      "value": "\"customerAppVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 366,
+      "length": 11,
+      "value": "\"sessionId\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 406,
+      "length": 14,
+      "value": "\"isConsenting\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/Service\/RequestModel\/FingerprintRequestData.swift",
+      "kind": "StringLiteral",
+      "offset": 452,
+      "length": 12,
+      "value": "\"attributes\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/FutureWrapper.swift",
+      "kind": "FloatLiteral",
+      "offset": 1232,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/FutureWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 671,
+      "length": 13,
+      "value": "\"DeviceRisk.FutureWrapper\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/Extensions\/UIDevice+IPAddress.swift",
+      "kind": "Array",
+      "offset": 263,
+      "length": 7,
+      "value": "[\"en0\"]"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/Extensions\/UIDevice+IPAddress.swift",
+      "kind": "Array",
+      "offset": 298,
+      "length": 21,
+      "value": "[\"en2\", \"en3\", \"en4\"]"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/Extensions\/UIDevice+IPAddress.swift",
+      "kind": "Array",
+      "offset": 350,
+      "length": 41,
+      "value": "[\"pdp_ip0\", \"pdp_ip1\", \"pdp_ip2\", \"pdp_ip3\"]"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 397,
+      "length": 19,
+      "value": "\"location_latitude\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 20,
+      "value": "\"location_longitude\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 487,
+      "length": 19,
+      "value": "\"location_altitude\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 528,
+      "length": 16,
+      "value": "\"location_floor\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 570,
+      "length": 20,
+      "value": "\"location_timestamp\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 612,
+      "length": 16,
+      "value": "\"location_speed\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 651,
+      "length": 17,
+      "value": "\"location_course\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 698,
+      "length": 24,
+      "value": "\"location_speedAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 753,
+      "length": 25,
+      "value": "\"location_courseAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 813,
+      "length": 29,
+      "value": "\"location_horizontalAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 875,
+      "length": 27,
+      "value": "\"location_verticalAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 397,
+      "length": 19,
+      "value": "\"location_latitude\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 20,
+      "value": "\"location_longitude\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 487,
+      "length": 19,
+      "value": "\"location_altitude\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 528,
+      "length": 16,
+      "value": "\"location_floor\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 570,
+      "length": 20,
+      "value": "\"location_timestamp\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 612,
+      "length": 16,
+      "value": "\"location_speed\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 651,
+      "length": 17,
+      "value": "\"location_course\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 698,
+      "length": 24,
+      "value": "\"location_speedAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 753,
+      "length": 25,
+      "value": "\"location_courseAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 813,
+      "length": 29,
+      "value": "\"location_horizontalAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocationData.swift",
+      "kind": "StringLiteral",
+      "offset": 875,
+      "length": 27,
+      "value": "\"location_verticalAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/FingerprintMetadata.swift",
+      "kind": "StringLiteral",
+      "offset": 183,
+      "length": 9,
+      "value": "\"context\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/FingerprintMetadata.swift",
+      "kind": "StringLiteral",
+      "offset": 223,
+      "length": 16,
+      "value": "\"durationOfCall\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/FingerprintMetadata.swift",
+      "kind": "StringLiteral",
+      "offset": 263,
+      "length": 9,
+      "value": "\"isReact\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/FingerprintMetadata.swift",
+      "kind": "StringLiteral",
+      "offset": 183,
+      "length": 9,
+      "value": "\"context\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/FingerprintMetadata.swift",
+      "kind": "StringLiteral",
+      "offset": 223,
+      "length": 16,
+      "value": "\"durationOfCall\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/FingerprintMetadata.swift",
+      "kind": "StringLiteral",
+      "offset": 263,
+      "length": 9,
+      "value": "\"isReact\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 173,
+      "length": 11,
+      "value": "\"osVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 217,
+      "length": 18,
+      "value": "\"socureSdkVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 173,
+      "length": 11,
+      "value": "\"osVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 217,
+      "length": 18,
+      "value": "\"socureSdkVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 570,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 603,
+      "length": 12,
+      "value": "\"clientTime\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 570,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 603,
+      "length": 12,
+      "value": "\"clientTime\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 834,
+      "length": 8,
+      "value": "\"action\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 864,
+      "length": 7,
+      "value": "\"focus\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 898,
+      "length": 12,
+      "value": "\"clientTime\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 834,
+      "length": 8,
+      "value": "\"action\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 864,
+      "length": 7,
+      "value": "\"focus\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 898,
+      "length": 12,
+      "value": "\"clientTime\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1108,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1141,
+      "length": 12,
+      "value": "\"clientTime\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1108,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1141,
+      "length": 12,
+      "value": "\"clientTime\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1439,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1470,
+      "length": 10,
+      "value": "\"pressure\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1503,
+      "length": 8,
+      "value": "\"offset\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1538,
+      "length": 12,
+      "value": "\"clientTime\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1439,
+      "length": 6,
+      "value": "\"type\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1470,
+      "length": 10,
+      "value": "\"pressure\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1503,
+      "length": 8,
+      "value": "\"offset\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1538,
+      "length": 12,
+      "value": "\"clientTime\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1934,
+      "length": 19,
+      "value": "\"focusChangeEvents\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1987,
+      "length": 19,
+      "value": "\"inputChangeEvents\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2037,
+      "length": 16,
+      "value": "\"keyPressEvents\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2083,
+      "length": 15,
+      "value": "\"pointerEvents\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1934,
+      "length": 19,
+      "value": "\"focusChangeEvents\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 1987,
+      "length": 19,
+      "value": "\"inputChangeEvents\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2037,
+      "length": 16,
+      "value": "\"keyPressEvents\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2083,
+      "length": 15,
+      "value": "\"pointerEvents\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2269,
+      "length": 8,
+      "value": "\"events\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2269,
+      "length": 8,
+      "value": "\"events\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2578,
+      "length": 11,
+      "value": "\"sessionId\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2612,
+      "length": 8,
+      "value": "\"pageId\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2653,
+      "length": 18,
+      "value": "\"sessionDataIndex\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2696,
+      "length": 10,
+      "value": "\"metadata\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2734,
+      "length": 13,
+      "value": "\"sessionData\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2578,
+      "length": 11,
+      "value": "\"sessionId\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2612,
+      "length": 8,
+      "value": "\"pageId\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2653,
+      "length": 18,
+      "value": "\"sessionDataIndex\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2696,
+      "length": 10,
+      "value": "\"metadata\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/DataModel\/BehavioralBiometricsData.swift",
+      "kind": "StringLiteral",
+      "offset": 2734,
+      "length": 13,
+      "value": "\"sessionData\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/LZString.swift",
+      "kind": "StringLiteral",
+      "offset": 217,
+      "length": 67,
+      "value": "\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+\/=\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/LZString.swift",
+      "kind": "StringLiteral",
+      "offset": 317,
+      "length": 67,
+      "value": "\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+-$\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/LZString.swift",
+      "kind": "StringLiteral",
+      "offset": 619,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 375,
+      "length": 33,
+      "value": "\"accessibility_isBoldTextEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 446,
+      "length": 39,
+      "value": "\"accessibility_isAssistiveTouchRunning\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 520,
+      "length": 34,
+      "value": "\"accessibility_shakeToUndoEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 590,
+      "length": 35,
+      "value": "\"accessibility_reduceMotionEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 668,
+      "length": 41,
+      "value": "\"accessibility_darkerSystemColorsEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 751,
+      "length": 41,
+      "value": "\"accessibility_reduceTransparencyEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 832,
+      "length": 37,
+      "value": "\"accessibility_closedCaptionsEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 375,
+      "length": 33,
+      "value": "\"accessibility_isBoldTextEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 446,
+      "length": 39,
+      "value": "\"accessibility_isAssistiveTouchRunning\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 520,
+      "length": 34,
+      "value": "\"accessibility_shakeToUndoEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 590,
+      "length": 35,
+      "value": "\"accessibility_reduceMotionEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 668,
+      "length": 41,
+      "value": "\"accessibility_darkerSystemColorsEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 751,
+      "length": 41,
+      "value": "\"accessibility_reduceTransparencyEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AccessibilityData.swift",
+      "kind": "StringLiteral",
+      "offset": 832,
+      "length": 37,
+      "value": "\"accessibility_closedCaptionsEnabled\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsIngestionService.swift",
+      "kind": "StringLiteral",
+      "offset": 495,
+      "length": 21,
+      "value": "\"analytics.dvnfo.com\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsIngestionService.swift",
+      "kind": "StringLiteral",
+      "offset": 556,
+      "length": 22,
+      "value": "\"\/api\/v1\/session-data\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/MixpanelClient.swift",
+      "kind": "StringLiteral",
+      "offset": 92,
+      "length": 34,
+      "value": "\"2ca8059543e55c4c54b34c1ec2dbbecc\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/MixpanelClient.swift",
+      "kind": "StringLiteral",
+      "offset": 38,
+      "length": 14,
+      "value": "\"DeviceRisk.MixpanelClient\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsManager.swift",
+      "kind": "StringLiteral",
+      "offset": 321,
+      "length": 27,
+      "value": "\"com.socure.bbmanagerqueue\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 666,
+      "length": 3,
+      "value": "120"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/SigmaDeviceManager.swift",
+      "kind": "StringLiteral",
+      "offset": 291,
+      "length": 23,
+      "value": "\"socure-device-risk-id\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/SigmaDeviceManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 1102,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/SigmaDeviceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1154,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 389,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/KeychainHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1575,
+      "length": 46,
+      "value": "\"com.socure.idplus.DeviceRisk.keychain.helper\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 602,
+      "length": 13,
+      "value": "\"device_name\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 642,
+      "length": 8,
+      "value": "\"osName\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 680,
+      "length": 11,
+      "value": "\"osVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 719,
+      "length": 14,
+      "value": "\"device_model\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 759,
+      "length": 18,
+      "value": "\"device_diskSpace\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 803,
+      "length": 14,
+      "value": "\"deviceMemory\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 845,
+      "length": 20,
+      "value": "\"device_orientation\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 900,
+      "length": 27,
+      "value": "\"device_userInterfaceIdiom\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 954,
+      "length": 12,
+      "value": "\"batteryAPI\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 995,
+      "length": 21,
+      "value": "\"device_batteryLevel\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1045,
+      "length": 21,
+      "value": "\"device_batteryState\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1099,
+      "length": 18,
+      "value": "\"screenResolution\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1151,
+      "length": 26,
+      "value": "\"device_deviceNativeScale\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1201,
+      "length": 16,
+      "value": "\"device_screens\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1253,
+      "length": 28,
+      "value": "\"device_identifierForVendor\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1308,
+      "length": 21,
+      "value": "\"device_isJailbroken\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1366,
+      "length": 29,
+      "value": "\"device_isRunningOnSimulator\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 602,
+      "length": 13,
+      "value": "\"device_name\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 642,
+      "length": 8,
+      "value": "\"osName\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 680,
+      "length": 11,
+      "value": "\"osVersion\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 719,
+      "length": 14,
+      "value": "\"device_model\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 759,
+      "length": 18,
+      "value": "\"device_diskSpace\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 803,
+      "length": 14,
+      "value": "\"deviceMemory\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 845,
+      "length": 20,
+      "value": "\"device_orientation\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 900,
+      "length": 27,
+      "value": "\"device_userInterfaceIdiom\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 954,
+      "length": 12,
+      "value": "\"batteryAPI\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 995,
+      "length": 21,
+      "value": "\"device_batteryLevel\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1045,
+      "length": 21,
+      "value": "\"device_batteryState\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1099,
+      "length": 18,
+      "value": "\"screenResolution\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1151,
+      "length": 26,
+      "value": "\"device_deviceNativeScale\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1201,
+      "length": 16,
+      "value": "\"device_screens\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1253,
+      "length": 28,
+      "value": "\"device_identifierForVendor\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1308,
+      "length": 21,
+      "value": "\"device_isJailbroken\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/DeviceData.swift",
+      "kind": "StringLiteral",
+      "offset": 1366,
+      "length": 29,
+      "value": "\"device_isRunningOnSimulator\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsCollectorConfigManager.swift",
+      "kind": "StringLiteral",
+      "offset": 170,
+      "length": 39,
+      "value": "\"socure-sigmadevice-global-config.json\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsCollectorConfigManager.swift",
+      "kind": "StringLiteral",
+      "offset": 263,
+      "length": 41,
+      "value": "\"socure-sigmadevice-customer-config.json\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsCollectorConfigManager.swift",
+      "kind": "StringLiteral",
+      "offset": 346,
+      "length": 34,
+      "value": "\"https:\/\/cdn.dvnfo.com\/flags.json\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsCollectorConfigManager.swift",
+      "kind": "StringLiteral",
+      "offset": 596,
+      "length": 40,
+      "value": "\"com.socure.bb-collector-config-manager\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/NetworkDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 209,
+      "length": 6,
+      "value": "\"wifi\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/NetworkDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 236,
+      "length": 10,
+      "value": "\"ethernet\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/NetworkDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 267,
+      "length": 10,
+      "value": "\"cellular\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/NetworkDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 297,
+      "length": 9,
+      "value": "\"unknown\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/NetworkDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 209,
+      "length": 6,
+      "value": "\"wifi\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/NetworkDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 236,
+      "length": 10,
+      "value": "\"ethernet\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/NetworkDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 267,
+      "length": 10,
+      "value": "\"cellular\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/NetworkDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 297,
+      "length": 9,
+      "value": "\"unknown\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/NetworkDataManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 677,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/Moonsense\/BehavioralBiometricsCollectorMoonsenseAgent.swift",
+      "kind": "BooleanLiteral",
+      "offset": 195,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/Moonsense\/BehavioralBiometricsCollectorMoonsenseAgent.swift",
+      "kind": "IntegerLiteral",
+      "offset": 345,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/SocureSigmaDevice.swift",
+      "kind": "BooleanLiteral",
+      "offset": 677,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/SocureSigmaDevice.swift",
+      "kind": "BooleanLiteral",
+      "offset": 791,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/SocureSigmaDevice.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1431,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/SocureSigmaDevice.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1871,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/LocationDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 942,
+      "length": 29,
+      "value": "\"EEE, dd MMM yyyy HH:mm:ss Z\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/Implementation\/LocationDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 800,
+      "length": 19,
+      "value": "\"DeviceRisk.LocationDataManager\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 328,
+      "length": 10,
+      "value": "\"language\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 365,
+      "length": 19,
+      "value": "\"locale_regionCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 409,
+      "length": 17,
+      "value": "\"locale_calendar\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 454,
+      "length": 20,
+      "value": "\"locale_variantCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 499,
+      "length": 10,
+      "value": "\"timezone\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 544,
+      "length": 31,
+      "value": "\"locale_userPreferredLanguages\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 601,
+      "length": 18,
+      "value": "\"locale_keyboards\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 650,
+      "length": 16,
+      "value": "\"timezoneOffset\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 328,
+      "length": 10,
+      "value": "\"language\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 365,
+      "length": 19,
+      "value": "\"locale_regionCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 409,
+      "length": 17,
+      "value": "\"locale_calendar\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 454,
+      "length": 20,
+      "value": "\"locale_variantCode\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 499,
+      "length": 10,
+      "value": "\"timezone\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 544,
+      "length": 31,
+      "value": "\"locale_userPreferredLanguages\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 601,
+      "length": 18,
+      "value": "\"locale_keyboards\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/LocaleData.swift",
+      "kind": "StringLiteral",
+      "offset": 650,
+      "length": 16,
+      "value": "\"timezoneOffset\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AdvertisingData.swift",
+      "kind": "StringLiteral",
+      "offset": 135,
+      "length": 22,
+      "value": "\"device_advertisingID\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Fingerprint\/DataManager\/DataModel\/AdvertisingData.swift",
+      "kind": "StringLiteral",
+      "offset": 135,
+      "length": 22,
+      "value": "\"device_advertisingID\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/RetryHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 200,
+      "length": 12,
+      "value": "\"DeviceRisk.RetryRequest\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Util\/RetryHandler.swift",
+      "kind": "StringLiteral",
+      "offset": 1564,
+      "length": 15,
+      "value": "\"retry.handler\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Constants\/SigmaDeviceAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 77,
+      "length": 37,
+      "value": "\"SigmaDeviceFingerprintTotalDuration\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Constants\/SigmaDeviceAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 159,
+      "length": 45,
+      "value": "\"SigmaDeviceFingerprintDeviceCollectDuration\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Constants\/SigmaDeviceAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 77,
+      "length": 37,
+      "value": "\"SigmaDeviceFingerprintTotalDuration\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/Common\/Constants\/SigmaDeviceAnalyticsEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 159,
+      "length": 45,
+      "value": "\"SigmaDeviceFingerprintDeviceCollectDuration\""
+    },
+    {
+      "filePath": "\/Users\/pmellamp\/Workplace\/Projects\/device-risk-ios-sdk\/DeviceRisk\/SigmaDevice\/BehavioralBiometrics\/BehavioralBiometricsIngestionManager.swift",
+      "kind": "StringLiteral",
+      "offset": 615,
+      "length": 36,
+      "value": "\"com.socure.bbingestionmanagerqueue\""
+    }
+  ]
+}

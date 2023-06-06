@@ -1,0 +1,55 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name DeviceRisk
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import SystemConfiguration.CaptiveNetwork
+import Combine
+import CoreLocation
+import CoreTelephony
+@_exported import DeviceRisk
+import Foundation
+import MessageUI
+import Network
+import NetworkExtension
+import Swift
+import SystemConfiguration
+import UIKit
+import _Concurrency
+import _StringProcessing
+public struct SocureSigmaDeviceConfig {
+  public let SDKKey: Swift.String
+  public var fingerprintEndpointHost: Swift.String?
+  public var enableBehavioralBiometrics: Swift.Bool
+  public init(SDKKey: Swift.String, fingerprintEndpointHost: Swift.String? = nil, enableBehavioralBiometrics: Swift.Bool = false)
+}
+public enum SocureFingerprintContext {
+  case homepage
+  case signup
+  case login
+  case profile
+  case password
+  case transaction
+  case checkout
+  case other(Swift.String)
+}
+public struct SocureFingerprintOptions {
+  public var omitLocationData: Swift.Bool
+  public var advertisingID: Swift.String?
+  public var context: DeviceRisk.SocureFingerprintContext?
+  public init(omitLocationData: Swift.Bool = false, advertisingID: Swift.String? = nil, context: DeviceRisk.SocureFingerprintContext? = nil)
+}
+public struct SocureFingerprintResult {
+  public let deviceSessionID: Swift.String
+}
+public typealias SocureFingerprintCallback = (DeviceRisk.SocureFingerprintResult?, DeviceRisk.SocureSigmaDeviceError?) -> Swift.Void
+public enum SocureSigmaDeviceError : Swift.Error {
+  case dataFetchError
+  case unknownError
+  case networkConnectionError(Swift.Error)
+  case dataUploadError(Swift.Int?, Swift.String?)
+}
+@objc @_inheritsConvenienceInitializers public class SocureSigmaDevice : ObjectiveC.NSObject {
+  public class func fingerprint(config: DeviceRisk.SocureSigmaDeviceConfig, options: DeviceRisk.SocureFingerprintOptions? = nil, callback: @escaping DeviceRisk.SocureFingerprintCallback)
+  @objc override dynamic public init()
+  @objc deinit
+}
