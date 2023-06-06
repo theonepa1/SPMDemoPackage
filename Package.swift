@@ -7,16 +7,9 @@ let package = Package(
            .iOS(.v13)
     ],
     products: [
-        // Products define the executables and libraries a package produces, and make them visible to other packages.
-        .library(
-            name: "SPMDemoNoTrustKit",
-            targets: ["DeviceRisk"]),
         .library(
             name: "SPMDemo",
             targets: ["SPMDemoPackageWrapper"])
-    ],
-    dependencies: [
-        .package(url: "https://github.com/datatheorem/TrustKit", from: "2.0.0")
     ],
     targets: [
         .binaryTarget(
@@ -27,7 +20,6 @@ let package = Package(
             name: "SPMDemoPackageWrapper",
             dependencies: [
                 .target(name: "DeviceRisk"),
-                .product(name: "TrustKit", package: "TrustKit")
             ],
             path: "SPMDemoPackageWrapper"
         ),
